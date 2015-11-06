@@ -1,3 +1,10 @@
 {
-  "directory": "bower_components"
+  "directory" : "bower_components",
+  "registry": {
+    "search": [
+      "http://52.17.191.190:5678",
+      "https://bower.herokuapp.com"
+    ],
+    "register": "http://52.17.191.190:5678"
+  }
 }

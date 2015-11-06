@@ -1,9 +1,25 @@
 {
-  "name": "gel-theme-sport",
-  "private": true,
+  "name": "gel-theme-news",
+  "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
     "chai": "~3.4.0",
-    "mocha": "~2.3.3"
-  }
+    "mocha": "~2.3.3",
+    "gos-cards": "~0.1.7"
+  },
+  "authors": [
+    "Max Shearer <max@tuimedia.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
