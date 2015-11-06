@@ -1,6 +1,6 @@
 {
   "name": "gel-theme-news",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
   "devDependencies": {
     "chai": "~3.4.0",
